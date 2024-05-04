@@ -16,3 +16,5 @@ var book="A smarter way to learn JavaScript";
 var Message="I am trying to learn from the Book \n A smarter way to learn javaScript"
 alert(Message);
 document.write("Yah! I can write HTML content through JavaScript");
+var text="▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬"
+alert(text);
